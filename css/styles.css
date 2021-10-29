@@ -17,7 +17,7 @@
 
 h1 {
     padding: 50px;;
-    margin-bottom: 150px;;
+    margin-bottom: 100px;;
 }
 .btns {
     display: flex;
@@ -28,4 +28,8 @@ h1 {
     border: 2px solid #ffc300;
     padding: 20px;
     cursor: pointer;
+}
+
+.computer-display {
+    margin: 60px;
 }
